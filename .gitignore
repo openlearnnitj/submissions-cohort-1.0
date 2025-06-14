@@ -1,0 +1,32 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Notebook outputs (optional, if you want to encourage clean commits)
+*.out
+*.log
+
+# Temporary or backup files
+*.bak
+*.tmp
+*.~*
