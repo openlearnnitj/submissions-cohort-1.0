@@ -10,6 +10,4 @@ We review and merge them into the `main` branch under `submissions/`.
 3. Add your files (PDFs, code, etc.) inside it
 4. Create a PR with a short title and proper description (use the PR template)
 
-> If you're unsure, check `templates/assignment-template.md` to follow the format.
-
 ## Folder Structure Example
